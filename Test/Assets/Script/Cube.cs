@@ -6,6 +6,14 @@ public class Cube : MonoBehaviour {
 	float X_Speed = 1;
 	float Z_Speed = 1;
 	
+	
+	
+	
+	//こうして、こうじゃ！
+
+
+
+
 
 	// Use this for initialization
 	void Start () {
